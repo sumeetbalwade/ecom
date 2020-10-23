@@ -10,6 +10,7 @@ django-cors-headers = "*"
 djangorestframework = "*"
 django = "*"
 pillow = "*"
+braintree = "*"
 
 [requires]
 python_version = "3.8"
